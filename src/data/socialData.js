@@ -14,12 +14,12 @@ export const socialData = {
     {
       id: 2,
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/h%C3%BCseyin-%C3%A7a%C4%9Flar-63477b184/",
+      url: "www.linkedin.com/in/hüseyin-çağlar",
       icon: FiLinkedin
     },
   ],
   resume: {
-    url: "/23.pdf",
+    url: "/pdfs/huseyincaglar-cv.pdf",
     label: "CV'mi İndir"
   }
 };
