@@ -14,7 +14,7 @@ export const socialData = {
     {
       id: 2,
       name: "LinkedIn",
-      url: "www.linkedin.com/in/hüseyin-çağlar",
+      url: "https://www.linkedin.com/in/h%C3%BCseyin-%C3%A7a%C4%9Flar/",
       icon: FiLinkedin
     },
   ],
