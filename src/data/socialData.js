@@ -19,7 +19,7 @@ export const socialData = {
     },
   ],
   resume: {
-    url: "/pdfs/huseyincaglar-cv.pdf",
+    url: "/pdfs/huseyin-caglar-cv.pdf",
     label: "CV'mi İndir"
   }
 };
